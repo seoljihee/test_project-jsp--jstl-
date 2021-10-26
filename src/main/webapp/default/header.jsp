@@ -36,7 +36,7 @@ nav ul li a:hover {
 <nav>
     <ul>
 <li><a href="${contextPath}/default/main.jsp">HOME</a></li>
-<li><a href="${contextPath}/member/MemberView.jsp">MEMBER_SHIP</a>
+<li><a href="${contextPath}/jihee/MemberView.jsp">MEMBER_SHIP</a>
     </ul>
 </nav>
 </div>
